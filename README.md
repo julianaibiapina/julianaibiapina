@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianaibiapina&hide=prs,issues,contribs)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianaibiapina&count_private=true&hide=prs,issues,contribs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianaibiapina&hide=prs,issues,contribs&count_private=true)
 
 
 <!--
