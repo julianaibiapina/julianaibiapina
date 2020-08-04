@@ -1,4 +1,4 @@
-### Hi, I'm Juliana 👋 
+### Hi, I'm Juliana 👋 :sparkles:
 
 I'm a student of computer engineering who is passionate about technology and to develop softwares to elevate people.
 
@@ -7,18 +7,8 @@ I'm a student of computer engineering who is passionate about technology and to 
 
 ### Find me around the web 🌎: <a href="https://www.linkedin.com/in/julianaibiapina/">LinkedIn</a> | <a href="https://twitter.com/Ju_Ibiapina">Twitter</a> | <a href="https://www.instagram.com/juliana_ibiapina/">Instagram</a>
 
-
-<!--
-**julianaibiapina/julianaibiapina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Primeiro cabeçalho  |  Segundo cabeçalho  |
+| ------------------- | ------------------- |
+<!-- LISTA DE EMOJIS
+https://www.webfx.com/tools/emoji-cheat-sheet/
 -->
