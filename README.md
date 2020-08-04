@@ -7,10 +7,6 @@ I'm a student of computer engineering who is passionate about technology and to 
 
 ### Find me around the web 🌎: <a href="https://www.linkedin.com/in/julianaibiapina/">LinkedIn</a> | <a href="https://twitter.com/Ju_Ibiapina">Twitter</a> | <a href="https://www.instagram.com/juliana_ibiapina/">Instagram</a>
 
-<a href="https://www.linkedin.com/in/julianaibiapina/">LinkedIn</a> <br/>
-<a href="https://twitter.com/Ju_Ibiapina">Twitter</a> <br/>
-<a href="https://www.instagram.com/juliana_ibiapina/">Instagram</a>
-
 
 <!--
 **julianaibiapina/julianaibiapina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
