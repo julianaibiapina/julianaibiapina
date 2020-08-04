@@ -1,4 +1,4 @@
-### Hi, I'm Juliana 👋 :sparkles:
+### :sparkles: Hi, I'm Juliana 👋 
 
 I'm a student of computer engineering who is passionate about technology and to develop softwares to elevate people.
 
