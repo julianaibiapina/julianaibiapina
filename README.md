@@ -1,6 +1,6 @@
 ### Hi, I'm Juliana 👋 
 
-I'm a student of computer engineering who is passionate about technology and to develop softwares to elevate people.
+I'm a student of computer engineering who is passionate about technology and to develop softwares to elevate people. I am currently working as a Web Developer.
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaibiapina&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  |  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianaibiapina&hide=prs,issues,contribs&count_private=true&show_icons=true)  |
 | ------------------- | ------------------- |
